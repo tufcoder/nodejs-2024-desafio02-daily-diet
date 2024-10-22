@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Environment
+.env
+.env.test
+
+# SQLite3
+
+db/*.db
+db/scripts
